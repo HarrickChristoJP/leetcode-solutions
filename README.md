@@ -7,4 +7,5 @@ This repository is to display all the LeetCode problems that I solve up to date.
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End--> lets work with the readme.md of this
