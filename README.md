@@ -27,7 +27,7 @@ A curated collection of my <b>accepted LeetCode solutions</b> written in <b>Java
 
 ---
 
-# 📖 About
+#  About
 
 This repository contains my accepted **LeetCode** solutions in **Java**.
 
@@ -35,13 +35,13 @@ The repository is automatically synchronized using **LeetHub**, allowing every a
 
 It serves as:
 
-- 📚 A personal DSA revision repository
-- 💻 A record of my coding interview preparation
-- 🚀 A showcase of my problem-solving journey
+-  A personal DSA revision repository
+-  A record of my coding interview preparation
+-  A showcase of my problem-solving journey
 
 ---
 
-# 🛠 Repository Information
+#  Repository Information
 
 | Item | Details |
 |------|---------|
@@ -52,7 +52,7 @@ It serves as:
 
 ---
 
-# 📂 Topics Covered
+#  Topics Covered
 
 - Arrays
 - Strings
@@ -73,24 +73,24 @@ It serves as:
 
 ---
 
-# 📈 Progress
+#  Progress
 
 The repository grows automatically as I solve more problems.
 
 Every accepted submission includes:
 
-- ✅ Java solution
-- ✅ Problem folder
-- ✅ Topic categorization
-- ✅ Automatic Git commit
+-  Java solution
+-  Problem folder
+-  Topic categorization
+-  Automatic Git commit
 
 ---
 
-# 🔗 Connect
+#  Connect
 
-- 💻 GitHub: https://github.com/HarrickChristoJP
-- 🧩 LeetCode: https://leetcode.com/u/harrickchristojp/
-- 💼 LinkedIn: https://linkedin.com/in/harrick-jp/
+-  GitHub: https://github.com/HarrickChristoJP
+-  LeetCode: https://leetcode.com/u/harrickchristojp/
+-  LinkedIn: https://linkedin.com/in/harrick-jp/
 
 ---
 
@@ -98,7 +98,7 @@ Every accepted submission includes:
 
 <div align="center">
 
-⭐ If you find this repository helpful, consider giving it a star!
+ If you find this repository helpful, consider giving it a star!
 
 </div>
 
