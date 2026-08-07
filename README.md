@@ -109,6 +109,7 @@ Every accepted submission includes:
 | ------- |
 | [0007-reverse-integer](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -138,6 +139,7 @@ Every accepted submission includes:
 | ------- |
 | [0001-two-sum](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0001-two-sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Binary Search
 |  |
 | ------- |
