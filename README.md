@@ -120,6 +120,7 @@ Every accepted submission includes:
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0657-robot-return-to-origin](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 | [3019-number-of-changing-keys](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/3019-number-of-changing-keys) |
 ## String Matching
 |  |
@@ -167,5 +168,6 @@ Every accepted submission includes:
 ## Simulation
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End--> lets work with the readme.md of this
