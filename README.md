@@ -151,6 +151,7 @@ Every accepted submission includes:
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0054-spiral-matrix](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0136-single-number](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0283-move-zeroes) |
@@ -183,4 +184,8 @@ Every accepted submission includes:
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0054-spiral-matrix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0136-single-number) |
 <!---LeetCode Topics End--> lets work with the readme.md of this
