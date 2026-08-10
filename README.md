@@ -146,6 +146,7 @@ Every accepted submission includes:
 | [0031-next-permutation](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0054-spiral-matrix](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0682-baseball-game](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0682-baseball-game) |
@@ -168,6 +169,11 @@ Every accepted submission includes:
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0657-robot-return-to-origin](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0682-baseball-game) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End--> lets work with the readme.md of this
