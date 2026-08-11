@@ -157,6 +157,7 @@ Every accepted submission includes:
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0682-baseball-game](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0682-baseball-game) |
@@ -174,6 +175,7 @@ Every accepted submission includes:
 | ------- |
 | [0001-two-sum](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0217-contains-duplicate) |
 ## Stack
 |  |
 | ------- |
@@ -197,6 +199,7 @@ Every accepted submission includes:
 | ------- |
 | [0075-sort-colors](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0217-contains-duplicate) |
 ## Quicksort
 |  |
 | ------- |
