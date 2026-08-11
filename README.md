@@ -120,10 +120,12 @@ Every accepted submission includes:
 | [0075-sort-colors](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0344-reverse-string) |
 ## String
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0344-reverse-string](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0657-robot-return-to-origin](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 | [3019-number-of-changing-keys](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/3019-number-of-changing-keys) |
 ## String Matching
