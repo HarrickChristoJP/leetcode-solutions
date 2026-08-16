@@ -175,6 +175,7 @@ Every accepted submission includes:
 | [0682-baseball-game](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0875-koko-eating-bananas](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0912-sort-an-array) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -191,6 +192,7 @@ Every accepted submission includes:
 | [0162-find-peak-element](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## Hash Table
 |  |
 | ------- |
