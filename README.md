@@ -173,6 +173,7 @@ Every accepted submission includes:
 | [0560-subarray-sum-equals-k](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0682-baseball-game) |
+| [0875-koko-eating-bananas](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/1929-concatenation-of-array) |
@@ -189,6 +190,7 @@ Every accepted submission includes:
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0875-koko-eating-bananas](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 ## Hash Table
 |  |
 | ------- |
