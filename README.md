@@ -121,6 +121,7 @@ Every accepted submission includes:
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0283-move-zeroes) |
@@ -158,6 +159,7 @@ Every accepted submission includes:
 | [0031-next-permutation](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -204,6 +206,7 @@ Every accepted submission includes:
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0682-baseball-game](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0682-baseball-game) |
 ## Simulation
 |  |
@@ -287,4 +290,12 @@ Every accepted submission includes:
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0050-powx-n) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End--> lets work with the readme.md of this
