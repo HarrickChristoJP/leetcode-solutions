@@ -112,6 +112,7 @@ Every accepted submission includes:
 | [0050-powx-n](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0507-perfect-number](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3783-mirror-distance-of-an-integer](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/3783-mirror-distance-of-an-integer) |
