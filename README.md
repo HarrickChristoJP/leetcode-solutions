@@ -112,6 +112,7 @@ Every accepted submission includes:
 | [0050-powx-n](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0507-perfect-number](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -228,6 +229,7 @@ Every accepted submission includes:
 |  |
 | ------- |
 | [0136-single-number](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0231-power-of-two) |
 ## Sorting
 |  |
 | ------- |
@@ -293,6 +295,7 @@ Every accepted submission includes:
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0231-power-of-two) |
 ## Dynamic Programming
 |  |
 | ------- |
