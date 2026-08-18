@@ -115,6 +115,7 @@ Every accepted submission includes:
 | [0231-power-of-two](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0507-perfect-number](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1512-number-of-good-pairs](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3783-mirror-distance-of-an-integer](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/3783-mirror-distance-of-an-integer) |
 ## Two Pointers
@@ -181,6 +182,7 @@ Every accepted submission includes:
 | [0912-sort-an-array](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1512-number-of-good-pairs](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -207,6 +209,7 @@ Every accepted submission includes:
 | [0169-majority-element](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0560-subarray-sum-equals-k](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [1512-number-of-good-pairs](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 ## Stack
 |  |
 | ------- |
@@ -255,6 +258,7 @@ Every accepted submission includes:
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0169-majority-element) |
+| [1512-number-of-good-pairs](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
