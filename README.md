@@ -119,6 +119,7 @@ Every accepted submission includes:
 | [2235-add-two-integers](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [3099-harshad-number](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/3099-harshad-number) |
 | [3783-mirror-distance-of-an-integer](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/3783-mirror-distance-of-an-integer) |
 | [3894-traffic-signal-color](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/3894-traffic-signal-color) |
 ## Two Pointers
