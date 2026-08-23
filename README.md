@@ -107,6 +107,7 @@ Every accepted submission includes:
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0050-powx-n) |
@@ -314,6 +315,7 @@ Every accepted submission includes:
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0231-power-of-two) |
 ## Dynamic Programming
@@ -349,4 +351,8 @@ Every accepted submission includes:
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0204-count-primes) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End--> lets work with the readme.md of this
