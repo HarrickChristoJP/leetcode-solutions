@@ -146,6 +146,7 @@ Every accepted submission includes:
 | [0657-robot-return-to-origin](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3019-number-of-changing-keys](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/3019-number-of-changing-keys) |
+| [3110-score-of-a-string](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/3110-score-of-a-string) |
 | [3894-traffic-signal-color](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/3894-traffic-signal-color) |
 ## String Matching
 |  |
