@@ -142,6 +142,7 @@ Every accepted submission includes:
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0012-integer-to-roman) |
+| [0014-longest-common-prefix](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0344-reverse-string](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0344-reverse-string) |
@@ -170,6 +171,7 @@ Every accepted submission includes:
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
@@ -359,4 +361,8 @@ Every accepted submission includes:
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0002-add-two-numbers) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End--> lets work with the readme.md of this
