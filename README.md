@@ -126,6 +126,7 @@ Every accepted submission includes:
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3783-mirror-distance-of-an-integer](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/3783-mirror-distance-of-an-integer) |
 | [3894-traffic-signal-color](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/3894-traffic-signal-color) |
+| [3945-digit-frequency-score](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/3945-digit-frequency-score) |
 ## Two Pointers
 |  |
 | ------- |
@@ -233,6 +234,7 @@ Every accepted submission includes:
 | [0217-contains-duplicate](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0560-subarray-sum-equals-k](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1512-number-of-good-pairs](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
+| [3945-digit-frequency-score](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/3945-digit-frequency-score) |
 ## Stack
 |  |
 | ------- |
