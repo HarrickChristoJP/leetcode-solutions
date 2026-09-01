@@ -121,6 +121,7 @@ Every accepted submission includes:
 | [1512-number-of-good-pairs](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [2235-add-two-integers](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
+| [2469-convert-the-temperature](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/2469-convert-the-temperature) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3099-harshad-number](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/3099-harshad-number) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
