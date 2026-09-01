@@ -125,6 +125,7 @@ Every accepted submission includes:
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3099-harshad-number](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/3099-harshad-number) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3783-mirror-distance-of-an-integer](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/3783-mirror-distance-of-an-integer) |
 | [3894-traffic-signal-color](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/3894-traffic-signal-color) |
 | [3945-digit-frequency-score](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/3945-digit-frequency-score) |
@@ -343,6 +344,7 @@ Every accepted submission includes:
 | ------- |
 | [0204-count-primes](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0204-count-primes) |
 | [2413-smallest-even-multiple](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Bracket Sequences
 |  |
 | ------- |
