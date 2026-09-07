@@ -155,6 +155,7 @@ Every accepted submission includes:
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3019-number-of-changing-keys](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/3019-number-of-changing-keys) |
 | [3110-score-of-a-string](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/3110-score-of-a-string) |
+| [3838-weighted-word-mapping](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
 | [3894-traffic-signal-color](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/3894-traffic-signal-color) |
 ## String Matching
 |  |
@@ -212,6 +213,7 @@ Every accepted submission includes:
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3838-weighted-word-mapping](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
 | [3925-concatenate-array-with-reverse](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Binary Search
 |  |
@@ -253,6 +255,7 @@ Every accepted submission includes:
 | [0682-baseball-game](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0682-baseball-game) |
 | [1929-concatenation-of-array](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [3838-weighted-word-mapping](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
 | [3894-traffic-signal-color](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/3894-traffic-signal-color) |
 | [3925-concatenate-array-with-reverse](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Matrix
