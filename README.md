@@ -143,6 +143,7 @@ Every accepted submission includes:
 | [0283-move-zeroes](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0876-middle-of-the-linked-list](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 ## String
 |  |
 | ------- |
@@ -386,6 +387,7 @@ Every accepted submission includes:
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0876-middle-of-the-linked-list](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Trie
 |  |
 | ------- |
