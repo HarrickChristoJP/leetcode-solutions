@@ -139,6 +139,7 @@ Every accepted submission includes:
 | [0031-next-permutation](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0141-linked-list-cycle](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0344-reverse-string) |
@@ -244,6 +245,7 @@ Every accepted submission includes:
 | [0003-longest-substring-without-repeating-characters](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0128-longest-consecutive-sequence](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0141-linked-list-cycle](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -387,6 +389,7 @@ Every accepted submission includes:
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0141-linked-list-cycle](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Trie
 |  |
@@ -408,4 +411,8 @@ Every accepted submission includes:
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End--> lets work with the readme.md of this
