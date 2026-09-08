@@ -389,6 +389,7 @@ Every accepted submission includes:
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Trie
