@@ -142,6 +142,7 @@ Every accepted submission includes:
 | [0189-rotate-array](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -197,6 +198,7 @@ Every accepted submission includes:
 | [0217-contains-duplicate](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
+| [0349-intersection-of-two-arrays](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -226,6 +228,7 @@ Every accepted submission includes:
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0162-find-peak-element) |
+| [0349-intersection-of-two-arrays](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -240,6 +243,7 @@ Every accepted submission includes:
 | [0012-integer-to-roman](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0169-majority-element](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1512-number-of-good-pairs](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [3945-digit-frequency-score](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/3945-digit-frequency-score) |
@@ -277,6 +281,7 @@ Every accepted submission includes:
 | [0075-sort-colors](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0912-sort-an-array) |
 ## Quicksort
