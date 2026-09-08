@@ -196,6 +196,7 @@ Every accepted submission includes:
 | [0204-count-primes](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0485-max-consecutive-ones](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -303,6 +304,7 @@ Every accepted submission includes:
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Sliding Window
 |  |
@@ -389,4 +391,8 @@ Every accepted submission includes:
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End--> lets work with the readme.md of this
