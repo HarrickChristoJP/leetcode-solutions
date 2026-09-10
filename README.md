@@ -198,6 +198,7 @@ Every accepted submission includes:
 | [0162-find-peak-element](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0283-move-zeroes) |
@@ -275,6 +276,7 @@ Every accepted submission includes:
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0054-spiral-matrix) |
+| [0200-number-of-islands](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0200-number-of-islands) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -414,8 +416,17 @@ Every accepted submission includes:
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0200-number-of-islands) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End--> lets work with the readme.md of this
