@@ -1,4 +1,4 @@
-class Solution {
+/*class Solution {
     public int numIslands(char[][] grid) {
         int m=grid.length,n=grid[0].length;
         boolean[][] arr=new boolean[m][n];
@@ -16,10 +16,34 @@ class Solution {
             arr[i][j]=true;
         }
         else return;
-
+  
         change(grid,i+1,j,arr);
         change(grid,i-1,j,arr);
         change(grid,i,j+1,arr);
         change(grid,i,j-1,arr);
+    }
+}*/
+class Solution {
+    public int numIslands(char[][] grid) {
+        int m=grid.length,n=grid[0].length;
+        int count=0;
+        for(int i=0;i<m;i++){
+            for(int j=0;j<n;j++){
+                if(grid[i][j]=='1') count++;
+                change(grid,i,j);
+            }
+        }
+        return count;
+    }
+    public static void change(char[][] grid,int i,int j){
+        if(i>=0 &&i<grid.length &&j>=0 &&j<grid[0].length && grid[i][j]=='1'){
+            grid[i][j]=2;//changing 2 because we want to change this as visisted
+        }
+        else return;
+  
+        change(grid,i+1,j);
+        change(grid,i-1,j);
+        change(grid,i,j+1);
+        change(grid,i,j-1);
     }
 }
