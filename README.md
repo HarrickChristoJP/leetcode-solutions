@@ -194,6 +194,7 @@ Every accepted submission includes:
 | [0075-sort-colors](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0162-find-peak-element) |
@@ -277,6 +278,7 @@ Every accepted submission includes:
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0054-spiral-matrix) |
+| [0130-surrounded-regions](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0200-number-of-islands) |
 ## Bit Manipulation
 |  |
@@ -420,6 +422,7 @@ Every accepted submission includes:
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0200-number-of-islands) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -428,9 +431,11 @@ Every accepted submission includes:
 ## Depth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0200-number-of-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End--> lets work with the readme.md of this
