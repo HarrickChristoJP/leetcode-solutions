@@ -357,6 +357,7 @@ Every accepted submission includes:
 | ------- |
 | [0002-add-two-numbers](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0231-power-of-two) |
 ## Dynamic Programming
 |  |
@@ -401,6 +402,7 @@ Every accepted submission includes:
 | [0002-add-two-numbers](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0206-reverse-linked-list](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Trie
 |  |
