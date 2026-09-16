@@ -225,6 +225,7 @@ Every accepted submission includes:
 | [1929-concatenation-of-array](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3838-weighted-word-mapping](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
@@ -282,6 +283,7 @@ Every accepted submission includes:
 | [0054-spiral-matrix](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0130-surrounded-regions](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0200-number-of-islands) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -432,6 +434,7 @@ Every accepted submission includes:
 | [0128-longest-consecutive-sequence](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0200-number-of-islands) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -441,9 +444,11 @@ Every accepted submission includes:
 | ------- |
 | [0130-surrounded-regions](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0200-number-of-islands) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0200-number-of-islands) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 <!---LeetCode Topics End--> lets work with the readme.md of this
