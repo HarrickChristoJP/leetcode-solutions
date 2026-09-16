@@ -184,6 +184,7 @@ Every accepted submission includes:
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -233,6 +234,7 @@ Every accepted submission includes:
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0069-sqrtx) |
@@ -311,6 +313,7 @@ Every accepted submission includes:
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0912-sort-an-array) |
 ## Counting
