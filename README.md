@@ -143,6 +143,7 @@ Every accepted submission includes:
 | [0075-sort-colors](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -267,6 +268,7 @@ Every accepted submission includes:
 | ------- |
 | [0020-valid-parentheses](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0234-palindrome-linked-list](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0682-baseball-game) |
 ## Simulation
 |  |
@@ -366,6 +368,7 @@ Every accepted submission includes:
 | [0050-powx-n](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -412,6 +415,7 @@ Every accepted submission includes:
 | [0083-remove-duplicates-from-sorted-list](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Trie
 |  |
