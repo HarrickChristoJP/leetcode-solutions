@@ -271,6 +271,7 @@ Every accepted submission includes:
 | [0042-trapping-rain-water](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0682-baseball-game) |
 ## Simulation
@@ -457,6 +458,7 @@ Every accepted submission includes:
 | [0094-binary-tree-inorder-traversal](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0130-surrounded-regions](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0144-binary-tree-preorder-traversal](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Breadth-First Search
@@ -470,9 +472,11 @@ Every accepted submission includes:
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End--> lets work with the readme.md of this
