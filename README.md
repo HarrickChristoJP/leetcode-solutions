@@ -462,6 +462,7 @@ Every accepted submission includes:
 | [0144-binary-tree-preorder-traversal](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0226-invert-binary-tree](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Breadth-First Search
 |  |
@@ -471,6 +472,7 @@ Every accepted submission includes:
 | [0104-maximum-depth-of-binary-tree](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0226-invert-binary-tree](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Tree
 |  |
@@ -481,6 +483,7 @@ Every accepted submission includes:
 | [0104-maximum-depth-of-binary-tree](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -490,4 +493,5 @@ Every accepted submission includes:
 | [0104-maximum-depth-of-binary-tree](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End--> lets work with the readme.md of this
