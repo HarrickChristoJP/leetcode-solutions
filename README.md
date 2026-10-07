@@ -219,6 +219,7 @@ Every accepted submission includes:
 | [0682-baseball-game](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0875-koko-eating-bananas](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0912-sort-an-array) |
+| [0980-unique-paths-iii](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0980-unique-paths-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -292,12 +293,14 @@ Every accepted submission includes:
 | [0054-spiral-matrix](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0130-surrounded-regions](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0980-unique-paths-iii](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0980-unique-paths-iii) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0980-unique-paths-iii](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0980-unique-paths-iii) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Sorting
 |  |
@@ -435,6 +438,7 @@ Every accepted submission includes:
 | [0039-combination-sum](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0052-n-queens-ii) |
+| [0980-unique-paths-iii](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0980-unique-paths-iii) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Combinatorics
 |  |
@@ -506,4 +510,8 @@ Every accepted submission includes:
 | ------- |
 | [0051-n-queens](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0052-n-queens-ii) |
+## Hamiltonian Path
+|  |
+| ------- |
+| [0980-unique-paths-iii](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0980-unique-paths-iii) |
 <!---LeetCode Topics End--> lets work with the readme.md of this
