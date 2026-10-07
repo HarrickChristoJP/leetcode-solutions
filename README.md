@@ -195,6 +195,7 @@ Every accepted submission includes:
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0051-n-queens](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -432,6 +433,7 @@ Every accepted submission includes:
 | ------- |
 | [0022-generate-parentheses](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0039-combination-sum) |
+| [0051-n-queens](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0051-n-queens) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Combinatorics
 |  |
@@ -498,4 +500,8 @@ Every accepted submission includes:
 | [0144-binary-tree-preorder-traversal](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0226-invert-binary-tree) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0051-n-queens) |
 <!---LeetCode Topics End--> lets work with the readme.md of this
