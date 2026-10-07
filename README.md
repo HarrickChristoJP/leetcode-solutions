@@ -434,6 +434,7 @@ Every accepted submission includes:
 | [0022-generate-parentheses](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0052-n-queens-ii) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Combinatorics
 |  |
@@ -504,4 +505,5 @@ Every accepted submission includes:
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End--> lets work with the readme.md of this
