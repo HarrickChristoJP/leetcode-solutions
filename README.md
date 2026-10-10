@@ -158,6 +158,7 @@ Every accepted submission includes:
 | [0020-valid-parentheses](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0344-reverse-string](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0657-robot-return-to-origin](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 | [1108-defanging-an-ip-address](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
@@ -270,6 +271,7 @@ Every accepted submission includes:
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
@@ -381,6 +383,7 @@ Every accepted submission includes:
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 ## Monotonic Stack
 |  |
@@ -397,6 +400,7 @@ Every accepted submission includes:
 | ------- |
 | [0020-valid-parentheses](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 ## Enumeration
 |  |
 | ------- |
