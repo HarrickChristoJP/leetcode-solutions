@@ -522,4 +522,8 @@ Every accepted submission includes:
 |  |
 | ------- |
 | [0980-unique-paths-iii](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0980-unique-paths-iii) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End--> lets work with the readme.md of this
