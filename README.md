@@ -476,6 +476,7 @@ Every accepted submission includes:
 | [0145-binary-tree-postorder-traversal](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Breadth-First Search
 |  |
@@ -501,6 +502,7 @@ Every accepted submission includes:
 | [0144-binary-tree-preorder-traversal](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -513,6 +515,7 @@ Every accepted submission includes:
 | [0144-binary-tree-preorder-traversal](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 ## Algorithm X
 |  |
 | ------- |
@@ -532,4 +535,8 @@ Every accepted submission includes:
 | [0196-delete-duplicate-emails](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0197-rising-temperature) |
 | [0511-game-play-analysis-i](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0511-game-play-analysis-i) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End--> lets work with the readme.md of this
