@@ -112,6 +112,7 @@ Every accepted submission includes:
 | [0009-palindrome-number](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0204-count-primes) |
@@ -202,6 +203,7 @@ Every accepted submission includes:
 | [0051-n-queens](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0055-jump-game) |
+| [0066-plus-one](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0088-merge-sorted-array) |
