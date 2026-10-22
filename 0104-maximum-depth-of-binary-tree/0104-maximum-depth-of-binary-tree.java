@@ -13,7 +13,8 @@
  *     }
  * }
  */
-class Solution {
+ /*
+ class Solution {
     int ans=0;
     public int maxDepth(TreeNode root) {
         if(root==null) return ans;
@@ -29,5 +30,12 @@ class Solution {
             }
         }
         return ans;
+    }
+}*/
+class Solution {
+    public int maxDepth(TreeNode root) {
+        if(root==null) return 0;
+        int l=maxDepth(root.left),r=maxDepth(root.right);
+        return 1+Math.max(l,r);
     }
 }
