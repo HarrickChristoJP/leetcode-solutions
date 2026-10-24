@@ -200,6 +200,7 @@ Every accepted submission includes:
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0055-jump-game) |
@@ -449,6 +450,7 @@ Every accepted submission includes:
 | ------- |
 | [0022-generate-parentheses](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0052-n-queens-ii) |
 | [0980-unique-paths-iii](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0980-unique-paths-iii) |
