@@ -231,6 +231,7 @@ Every accepted submission includes:
 | [0980-unique-paths-iii](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0980-unique-paths-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1480-running-sum-of-1d-array](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1512-number-of-good-pairs](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1539-kth-missing-positive-number](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
@@ -351,6 +352,7 @@ Every accepted submission includes:
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [1480-running-sum-of-1d-array](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Sliding Window
 |  |
 | ------- |
