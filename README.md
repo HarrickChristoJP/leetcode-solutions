@@ -235,6 +235,7 @@ Every accepted submission includes:
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1512-number-of-good-pairs](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1539-kth-missing-positive-number](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
+| [1672-richest-customer-wealth](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1929-concatenation-of-array](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/1929-concatenation-of-array) |
@@ -305,6 +306,7 @@ Every accepted submission includes:
 | [0130-surrounded-regions](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0980-unique-paths-iii](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0980-unique-paths-iii) |
+| [1672-richest-customer-wealth](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Bit Manipulation
 |  |
