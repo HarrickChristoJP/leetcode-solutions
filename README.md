@@ -119,6 +119,7 @@ Every accepted submission includes:
 | [0231-power-of-two](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0507-perfect-number](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2235-add-two-integers](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/2235-add-two-integers) |
@@ -314,6 +315,7 @@ Every accepted submission includes:
 | [0136-single-number](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0980-unique-paths-iii](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/0980-unique-paths-iii) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/HarrickChristoJP/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Sorting
 |  |
